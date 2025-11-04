@@ -7,7 +7,7 @@ It displays my photo, name, profession, and location — designed as a minimal, 
 
 ## 🖼️ Preview
 
-![Profile Card Screenshot](<img width="642" height="372" alt="profile-dev" src="https://github.com/user-attachments/assets/1af7ea8f-8a9b-48e9-82f8-b5107bee08ee" />)
+![Profile Card Screenshot](<file:///D:/balaji/projects/my%20portfolio/Potfolio-Card/index.html>)
 
 
 ---
