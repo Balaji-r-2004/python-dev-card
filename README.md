@@ -7,7 +7,7 @@ It displays my photo, name, profession, and location — designed as a minimal, 
 
 ## 🖼️ Preview
 
-![Profile Card Screenshot](<file:///D:/balaji/projects/my%20portfolio/Potfolio-Card/index.html>)
+![Profile Card Screenshot](file:///D:/balaji/projects/my%20portfolio/Potfolio-Card/index.html)
 
 
 ---
