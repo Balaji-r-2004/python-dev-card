@@ -5,13 +5,6 @@ It displays my photo, name, profession, and location — designed as a minimal, 
 
 ---
 
-## 🖼️ Preview
-
-
-
-
----
-
 ## 🧱 Features
 
 - Responsive design (centered layout)
